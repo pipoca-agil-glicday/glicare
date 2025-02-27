@@ -4,6 +4,7 @@ import { Alert } from 'react-native';
 
 import logo from "../../assets/logo.png";
 import GoogleIcon from '@expo/vector-icons/AntDesign';
+import Homepage from './Homepage';
 
 export default function Loginpage() {
     return (
